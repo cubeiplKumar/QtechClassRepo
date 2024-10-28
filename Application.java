@@ -15,4 +15,18 @@ public class SimpleMethodExample {
         // Printing the result
         System.out.println("The sum is: " + result);
     }
+	#feature201 changes by Vivek for the Services Module in HDFC Project in Oct2023
+	public class Example {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        // program code
+    }
+
+    // your own methods here
+    public static void greet() {
+        System.out.println("Greetings from the method world!");
+    }
+}
+# Close the method for feature201
+
 }
